@@ -1,0 +1,2 @@
+POST http://localhost:8080/fill/almhult/billy?amount=10
+Content-Type: application/json

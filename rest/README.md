@@ -1,0 +1,1 @@
+For the demo, I used Visual Studio Code with a Rest Client extension to talk to the Inventory API service. The extension runs http requests defined in plain text files.
